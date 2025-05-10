@@ -38,6 +38,3 @@ In today’s digital healthcare landscape, many users search online for medicine
 | Dataset         | Pre-mapped drug name and alternative data|
 
 ---
-
-## 📁 Project Structure
-
